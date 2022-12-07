@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Asif Ferdous</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
-<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=afk247&" alt="afk247" />
 
 <p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" alt="CODING" /> </p>
 
