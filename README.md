@@ -7,14 +7,14 @@
 🚀 **Software Engineer | Frontend-Focused Full Stack Developer**  
 📍 Rangpur, Bangladesh  
 📧 [asifferdous23@gmail.com](mailto:asifferdous23@gmail.com)  
-🔗 [🌐 Portfolio](https://asifferdous.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/asifferdous23) • [🐙 GitHub](https://github.com/AFK247)
+🔗 [🌐 Portfolio](https://asifferdous.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/asifferdous23) • [ GitHub](https://github.com/AFK247)
 
 ---
 
 ### 🚀 About Me
 🎯 Passionate software engineer specializing in **React, Next.js, and full-stack development**. With over **2 years of experience**, I love crafting **scalable, high-performance web applications**. Always eager to **solve complex problems** and **learn new technologies**!  
 
-💡 **Interests:** Web Performance Optimization, Cloud Services, DevOps, UI/UX Design  
+💡 **Interests:** Web Performance Optimization, Cloud Services, DevOps, AI Based Solutions and Websites.
 ⚡ **Fun Fact:** I automate everything I can! 🤖
 
 ---
