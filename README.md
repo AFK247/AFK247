@@ -1,29 +1,98 @@
-<h1 align="center">Hi 👋, I'm Md. Asif Ferdous</h1>
-<h3 align="center">A passionate MERN Developer from Bangladesh</h3>
+# Hi there! 👋 I'm **MD. Asif Ferdous**
 
-<p align="left"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif" alt="CODING" /> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://timely-gumption-c54a64.netlify.app/](https://timely-gumption-c54a64.netlify.app/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **asifferdous23@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LxOmRbQrNchQuNOnMIfSwIa1nlqZdHSn2QSSn3rW14c/edit?usp=sharing](https://docs.google.com/document/d/1LxOmRbQrNchQuNOnMIfSwIa1nlqZdHSn2QSSn3rW14c/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. asif ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. asif ferdous" height="30" width="40" /></a>
-<a href="https://fb.com/asif saikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif saikat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asif23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asif23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asif_ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asif_ferdous" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=32CD32&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+AWS;Passionate+About+Building+Scalable+Apps" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+🚀 **Software Engineer | Frontend-Focused Full Stack Developer**  
+📍 Rangpur, Bangladesh  
+📧 [asifferdous23@gmail.com](mailto:asifferdous23@gmail.com)  
+🔗 [🌐 Portfolio](https://asifferdous.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/asifferdous23) • [🐙 GitHub](https://github.com/AFK247)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afk247&show_icons=true&locale=en&layout=compact" alt="afk247" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afk247&" alt="afk247" /></p>
+### 🚀 About Me
+🎯 Passionate software engineer specializing in **React, Next.js, and full-stack development**. With over **2 years of experience**, I love crafting **scalable, high-performance web applications**. Always eager to **solve complex problems** and **learn new technologies**!  
+
+💡 **Interests:** Web Performance Optimization, Cloud Services, DevOps, UI/UX Design  
+⚡ **Fun Fact:** I automate everything I can! 🤖
+
+---
+
+### 🛠️ Tech Stack
+
+#### **💻 Frontend:**
+- ⚛️ React, Next.js, Redux, Tailwind CSS, MUI, ShadCN
+- 📊 Data Visualization: Charts, Graphs, DataGrid
+- 🎨 Custom UI Components & Optimized Performance
+
+#### **🔧 Backend:**
+- 🖥️ Node.js, Express.js, MongoDB, Firebase, Socket.io
+- 🔒 Authentication (JWT, OAuth, Firebase Auth)
+
+#### **☁️ Cloud & DevOps:**
+- AWS (S3, CloudFront, Route 53, Amplify, EC2)
+- CI/CD (GitHub Actions), Nginx, Vercel, CPanel
+- Analytics (Google Analytics, Hotjar, Microsoft Clarity)
+
+#### **🌍 Languages:**
+- JavaScript, TypeScript, C, C++
+
+---
+
+### 💼 Work Experience
+
+#### **👨‍💻 Software Engineer - Eagle 3D Streaming (Sep 2023 – Present)**
+- 🚀 Developed a **centralized login system** with multi-subdomain session persistence
+- 📊 Integrated **Google Analytics & Hotjar** for better insights
+- ⚡ Optimized **AWS S3 & CloudFront**, reducing bandwidth costs by 50%
+- 🛠️ Automated **CI/CD with GitHub Actions**, reducing deployment time by 70%
+- 💡 Built **company website & admin panel** with Next.js, Node.js, Firebase
+
+🔗 [🌐 Eagle 3D Streaming](https://eagle3dstreaming.com)
+
+#### **🎯 Frontend Developer - Shunno IT (Feb 2023 – Aug 2023)**
+- 💻 Developed & optimized **manager features**
+- 🚀 Reduced **load time by 40%** via performance improvements
+- 🛠️ Implemented **new features & bug fixes** for smooth UX
+
+🔗 [🌐 Shunno IT](https://shunnoit.com)
+
+---
+
+### 🔥 Featured Projects
+
+#### **🚀 Incolink (Oct 2024 – Jan 2025)**
+A platform empowering professionals to **anonymously discuss salaries and workplace fairness**.  
+- 🔐 **Secure authentication** with HTTP-only cookies & in-memory login state
+- ⚡ Optimized **state management with RTK Query & lazy loading**
+- 📡 **Real-time push notifications** using Socket.io
+- ✅ Robust **error handling** with Zod
+- 🏗 **Modular UI** with React Hook Form & MUI
+
+🔗 [🌐 Incolink](https://www.incolink.net)
+
+---
+
+### 🎓 Education
+🎓 **B.Sc in Computer Science & Engineering** - RUET (2018-2023)  
+🎓 **HSC & SSC** - Millennium Stars School & College (GPA: 5.0)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AFK247&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AFK247&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/asifferdous23"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/AFK247"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:asifferdous23@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://asifferdous.vercel.app"><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" /></a>
+</p>
